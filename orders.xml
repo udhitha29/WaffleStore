@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orders>
+
+
+<order>
+<id>1773057564174</id>
+<item>Belgian Waffle</item>
+<amount>399</amount>
+<status>Confirmed</status>
+<date>Mon Mar 09 17:29:24 IST 2026</date>
+</order>
+
+<order>
+<id>1773057705307</id>
+<item>Blueberry Pancake</item>
+<amount>399</amount>
+<status>Confirmed</status>
+<date>Mon Mar 09 17:31:45 IST 2026</date>
+</order>
+
+<order>
+<id>1773058163179</id>
+<item>KitKat Shake</item>
+<amount>219</amount>
+<status>Confirmed</status>
+<date>Mon Mar 09 17:39:23 IST 2026</date>
+</order>
+
+<order>
+<id>1773115507706</id>
+<item>Chocolate Waffle</item>
+<amount>340</amount>
+<status>Confirmed</status>
+<date>Tue Mar 10 09:35:07 IST 2026</date>
+</order>
+
+<order>
+<id>1773122932717</id>
+<item>Waffle Lover Combo</item>
+<amount>479</amount>
+<status>Confirmed</status>
+<date>Tue Mar 10 11:38:52 IST 2026</date>
+</order>
+</orders>
